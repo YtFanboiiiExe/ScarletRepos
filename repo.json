@@ -289,7 +289,7 @@
 		"down": "https://github.com/hrtowii/WDBFontOverwrite/releases/download/v2.0.0/KFDFontOverwrite-Non14Pro.ipa",
 		"dev" : "hrtowii",
 		"category": "Emulators",
-		"description": "Overwrite the system font on iOS 15.2 up to 16.5",
-		"bundleID": "com.hrtowii.fontoverwrite"
+		"description": "Install jailbreak tweaks from kfd and macdirtycow exploit",
+		"bundleID": "com.huy.misaka64"
 	}]
 }
