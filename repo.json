@@ -258,7 +258,7 @@
 		"icon": "https://i.imgur.com/Yah6zFk.png",
 		"down": "https://github.com/litchie/dospad/releases/download/2.1/iDOS.ipa",
 		"dev" : "litchie",
-		"category": "Emulators",
+		"category": "Jailbreaks",
 		"description": "Play DOS games on iOS.",
 		"bundleID": "com.litchie.idosgames"
 
@@ -268,13 +268,23 @@
 		"icon": "https://example.com",
 		"down": "https://github.com/hrtowii/WDBFontOverwrite/releases/download/v2.0.0/KFDFontOverwrite.ipa",
 		"dev" : "hrtowii",
-		"category": "Emulators",
+		"category": "Jailbreaks",
 		"description": "Overwrite the system font on iOS 15.2 up to 16.5",
 		"bundleID": "com.hrtowii.fontoverwrite"
 
 }, {
 		"name": "KFDFontOverwrite (Non iphone 14 pro)",
 		"version": "2.0.0",
+		"icon": "https://example.com",
+		"down": "https://github.com/YtFanboiiiExe/ScarletRepos/releases/download/v1/misaka_2.1.0.ipa",
+		"dev" : "huy",
+		"category": "Jailbreaks",
+		"description": "Overwrite the system font on iOS 15.2 up to 16.5",
+		"bundleID": "com.hrtowii.fontoverwrite"
+
+}, {
+		"name": "Misaka",
+		"version": "2.1.0",
 		"icon": "https://example.com",
 		"down": "https://github.com/hrtowii/WDBFontOverwrite/releases/download/v2.0.0/KFDFontOverwrite-Non14Pro.ipa",
 		"dev" : "hrtowii",
