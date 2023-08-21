@@ -276,7 +276,7 @@
 		"name": "KFDFontOverwrite (Non iphone 14 pro)",
 		"version": "2.0.0",
 		"icon": "https://example.com",
-		"down": "https://github.com/YtFanboiiiExe/ScarletRepos/releases/download/v1/misaka_2.1.0.ipa",
+		"down": "https://github.com/hrtowii/WDBFontOverwrite/releases/download/v2.0.0/KFDFontOverwrite-Non14Pro.ipa",
 		"dev" : "huy",
 		"category": "Jailbreaks",
 		"description": "Overwrite the system font on iOS 15.2 up to 16.5",
@@ -286,9 +286,9 @@
 		"name": "Misaka",
 		"version": "2.1.0",
 		"icon": "https://example.com",
-		"down": "https://github.com/hrtowii/WDBFontOverwrite/releases/download/v2.0.0/KFDFontOverwrite-Non14Pro.ipa",
+		"down": "https://github.com/YtFanboiiiExe/ScarletRepos/releases/download/v1/misaka_2.1.0.ipa",
 		"dev" : "hrtowii",
-		"category": "Emulators",
+		"category": "Jailbreaks",
 		"description": "Install jailbreak tweaks from kfd and macdirtycow exploit",
 		"bundleID": "com.huy.misaka64"
 	}]
