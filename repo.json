@@ -291,5 +291,15 @@
 		"category": "Jailbreaks",
 		"description": "Install jailbreak tweaks from kfd and macdirtycow exploit",
 		"bundleID": "com.huy.misaka64"
+
+}, {
+		"name": "PureKFD (iOS 16 trollstore method)",
+		"version": "2.1.0",
+		"icon": "https://example.com",
+		"down": "https://github.com/YtFanboiiiExe/ScarletRepos/releases/download/v1/PureKFD.ipa",
+		"dev" : "PureKFD",
+		"category": "Jailbreaks",
+		"description": "THIS ONLY WORKS FROM IOS 16.2 UP TO 16.5 (NO IPADS)",
+		"bundleID": "com.huy.misaka64"
 	}]
 }
